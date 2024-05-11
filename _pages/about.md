@@ -11,16 +11,16 @@ profile:
   more_info: >
     <div class="contact-icons" style="text-align: center;"> 
     <a href="https://scholar.google.com/citations?user=QCVeiMkAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener noreferrer">
-      <i class="ai ai-google-scholar" style="font-size: 24px;"></i>
+      <i class="ai ai-google-scholar" style="font-size: 28px;"></i>
     </a> 
     <a href="https://github.com/AlessandroPierro" title="GitHub" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-github" style="font-size: 24px;"></i>
+      <i class="fab fa-github" style="font-size: 28px;"></i>
     </a> 
     <a href="https://linkedin.com/in/alessandropierro" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+      <i class="fab fa-linkedin" style="font-size: 28px;"></i>
     </a> 
     <a href="https://twitter.com/PierroTweets" title="Twitter" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-twitter" style="font-size: 24px;"></i></a> 
+      <i class="fab fa-twitter" style="font-size: 28px;"></i></a> 
     </div>
 
 news: true # includes a list of news items
