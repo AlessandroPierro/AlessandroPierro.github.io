@@ -28,8 +28,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, visitor! I'm a PhD student in computer science at LMU Munich with the Chair of AI and ML. I focus on hardware-aware design of algorithms for ML and optimization, especially for resource-constrained environments. Right now, my objective is to bring long-range sequence modeling capabilities to the edge, adapting State Space Models to neuromorphic devices (e.g., Intel Loihi 2).
+Hey, visitor! I'm a PhD student in computer science at LMU Munich with the Chair of AI and ML. I focus on hardware-aware design of algorithms for ML and optimization, especially for resource-constrained environments. Right now, my objective is to bring long-range sequence modeling capabilities to the edge designing State Space Models to neuromorphic devices (e.g., Intel Loihi 2).
 
-When I'm not reading, coding, or wondering around on X, I like going for a run, hiking, watching stand-up comedy, and cooking recipes from different cultures. And yes, sticking to the stereotype, I'm from Italy and I enjoy a good coffee.
+When I'm not reading, coding, or getting lost on X, I like going for a run, hiking, stand-up comedy (just watching, for now), and cooking recipes from different cultures. And yes, sticking to the stereotype, I'm from Italy and I enjoy a good coffee.
 
 I'm always happy to connect with new people, so don't hesitate to drop me a message!
